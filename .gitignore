@@ -1,2 +1,8 @@
-include/version.h
-vs2015/xenusbdevice.inf
+/.build_number
+/include/version.h
+x64/
+Win32/
+bin/
+obj/
+vs2019/xenusbdevice.inf
+vs2019/version/.revision
